@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**Subomi194/Subomi194** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olasubomi Ariyo  
+### Frontend Developer                                    
 
-Here are some ideas to get you started:
+I build projects while creating interfaces that feel simple, intentional, and easy to use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning ideas and designs into working features, fixing what doesn’t work, and improving things step by step. I’ve worked on production React applications and like building clean, reusable components that make projects easier to maintain.
+
+---
+
+Tech Stacks:
+React • Next.js • TypeScript • JavaScript • HTML5 • CSS3 • Git • GitHub
+
+---
+
+📫 Connect with me on LinkedIn:
+https://www.linkedin.com/in/subomiariyo/
