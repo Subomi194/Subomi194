@@ -12,6 +12,3 @@ Tech Stacks:
 React • Next.js • TypeScript • JavaScript • HTML5 • CSS3 • Git • GitHub
 
 ---
-
-📫 Connect with me on LinkedIn:
-https://www.linkedin.com/in/subomiariyo/
